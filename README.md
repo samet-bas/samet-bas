@@ -15,8 +15,8 @@
 
 <h3 align="left">Visit my:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc50quuukcpzjtrg2jrnddlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc50quuukcpzjtrg2jrnddlg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/selam_ben_samet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/selam_ben_samet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc50quuukcpzjtrg2jrnddlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc50quuukcpzjtrg2jrnddlg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/selam_ben_samet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/selam_ben_samet" height="30" width="40" /></a>
 </p>
 
 
