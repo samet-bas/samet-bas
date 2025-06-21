@@ -102,10 +102,6 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selam-ben-samet&show_icons=true&locale=en" alt="selam-ben-samet" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selam-ben-samet&show_icons=true&locale=en&layout=compact" alt="selam-ben-samet" /></p>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selam-ben-samet&label=Profile%20views&color=0e75b6&style=flat" alt="selam-ben-samet" /> </p>
